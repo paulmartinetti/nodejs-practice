@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmartinetti/nodejs-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulmartinetti/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/paulmartinetti/nodejs-practice#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
